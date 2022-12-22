@@ -1,0 +1,35 @@
+{
+    "query": [
+      {
+        "code": "AnvOmrade",
+        "selection": {
+          "filter": "item",
+          "values": ["Tot", "Exp", "24", "25", "26", "27", "28", "2930", "14", "31", "32", "35", "36", "37", "38", "39", "40", "41", "42", "15", "16", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "56", "57", "62", "63", "64", "StamF", "Överf", "65"]
+        }
+      },
+      {
+        "code": "Elomrade",
+        "selection": {
+          "filter": "item",
+          "values": ["00", "SE1", "SE2", "SE3", "SE4"]
+        }
+      },
+      {
+        "code": "ContentsCode",
+        "selection": {
+          "filter": "item",
+          "values": ["000000W8"]
+        }
+      },
+      {
+        "code": "Tid",
+        "selection": {
+          "filter": "item",
+          "values": ["2015", "2016", "2017", "2018", "2019", "2020", "2021"]
+        }
+      }
+    ],
+    "response": {
+      "format": "json"
+    }
+  } 
